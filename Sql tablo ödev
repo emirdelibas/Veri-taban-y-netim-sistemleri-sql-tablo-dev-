@@ -45,7 +45,6 @@ YAYINlandigi zaman date time
 );
 
 
-
 CREATE TABLE EMANET(
 emanet numarasi int  identity(1,1) not null,
 emanetTarihi datetime,
